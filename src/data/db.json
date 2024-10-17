@@ -1,324 +1,324 @@
-  {
-    "pensamentos": [
-      {
-        "id": "2a56",
-        "conteudo": "Vc faz TI? Conserta meu celular!",
-        "autoria": "Grupo da família"
-      },
-      {
-        "id": "4c7d",
-        "conteudo": "Da vida reclama, mas sem ela não vive!",
-        "autoria": "Mestre Yoda"
-      },
-      {
-        "id": "68uy",
-        "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
-        "autoria": "Chaves"
-      },
-      {
-        "id": "b807",
-        "conteudo": "Melhor professor, o fracasso é!",
-        "autoria": "Mestre Yoda"
-      },
-      {
-        "id": "9f3c",
-        "conteudo": "Você não é todo mundo!",
-        "autoria": "Mãe"
-      },
-      {
-        "id": "6a2b",
-        "conteudo": "Foi sem querer querendo!",
-        "autoria": "Chaves"
-      },
-      {
-        "id": "7e2a",
-        "conteudo": "Que a força esteja com você!",
-        "autoria": "Mestre Yoda"
-      },
-      {
-        "id": "5c8f",
-        "conteudo": "Resolver o bug não consegue? Esfriar a cabeça vc deve.",
-        "autoria": "Mestre Yoda"
-      },
-      {
-        "id": "2d6e",
-        "conteudo": "Não faça drama, faça café! :)",
-        "autoria": "Dev"
-      },
-      {
-        "id": "3f1a",
-        "conteudo": "Conserta minha impressora?",
-        "autoria": "Grupo da família"
-      },
-      {
-        "id": "8b4c",
-        "conteudo": "A vingança nunca é plena... mata a alma e a envenena...",
-        "autoria": "Seu Madruga"
-      },
-      {
-        "id": "584a",
-        "conteudo": "Na minha máquina funciona!",
-        "autoria": "Dev"
-      },
-      {
-        "id": "1a01",
-        "conteudo": "Essa é a parte em que você corre!",
-        "autoria": "Shrek"
-      },
-      {
-        "id": "1b02",
-        "conteudo": "Que mundo é esse que ninguém mais faz nada pelo outro?",
-        "autoria": "Avenida Brasil"
-      },
-      {
-        "id": "1c03",
-        "conteudo": "O problema não é o problema. O problema é sua atitude em relação ao problema.",
-        "autoria": "Jack Sparrow"
-      },
-      {
-        "id": "1d04",
-        "conteudo": "Houston, nós temos um problema.",
-        "autoria": "Apollo 13"
-      },
-      {
-        "id": "1e05",
-        "conteudo": "Que a Força esteja com você.",
-        "autoria": "Star Wars"
-      },
-      {
-        "id": "1f06",
-        "conteudo": "E daí? Eu não sou obrigada a nada!",
-        "autoria": "Carminha - Avenida Brasil"
-      },
-      {
-        "id": "1g07",
-        "conteudo": "Hasta la vista, baby.",
-        "autoria": "O Exterminador do Futuro"
-      },
-      {
-        "id": "1h08",
-        "conteudo": "Vou te contar uma coisa que você já sabe: o mundo não é um grande arco-íris.",
-        "autoria": "Rocky Balboa"
-      },
-      {
-        "id": "1i09",
-        "conteudo": "Sabe de nada, inocente!",
-        "autoria": "Compadre Washington"
-      },
-      {
-        "id": "1j10",
-        "conteudo": "Por que está tão sério?",
-        "autoria": "Coringa"
-      },
-      {
-        "id": "1k11",
-        "conteudo": "Eu sou o rei do mundo!",
-        "autoria": "Titanic"
-      },
-      {
-        "id": "1l12",
-        "conteudo": "A vingança nunca é plena, mata a alma e a envenena.",
-        "autoria": "Seu Madruga"
-      },
-      {
-        "id": "1m13",
-        "conteudo": "Eu não sou todo mundo!",
-        "autoria": "Mãe"
-      },
-      {
-        "id": "1n14",
-        "conteudo": "Isso vai virar um inferno!",
-        "autoria": "Nina - Avenida Brasil"
-      },
-      {
-        "id": "1o15",
-        "conteudo": "Com grandes poderes, vêm grandes responsabilidades.",
-        "autoria": "Tio Ben - Homem-Aranha"
-      },
-      {
-        "id": "1p16",
-        "conteudo": "Eu sou o Batman.",
-        "autoria": "Batman"
-      },
-      {
-        "id": "1q17",
-        "conteudo": "É mesmo, é?",
-        "autoria": "Chaves"
-      },
-      {
-        "id": "1r18",
-        "conteudo": "Foi sem querer querendo!",
-        "autoria": "Chaves"
-      },
-      {
-        "id": "1s19",
-        "conteudo": "Pelo poder de Greyskull!",
-        "autoria": "He-Man"
-      },
-      {
-        "id": "1t20",
-        "conteudo": "Não contavam com a minha astúcia!",
-        "autoria": "Chapolin"
-      },
-      {
-        "id": "1u21",
-        "conteudo": "Eu vejo gente morta.",
-        "autoria": "O Sexto Sentido"
-      },
-      {
-        "id": "1v22",
-        "conteudo": "Sempre há uma luz no fim do túnel.",
-        "autoria": "Vovó"
-      },
-      {
-        "id": "1w23",
-        "conteudo": "O inverno está chegando.",
-        "autoria": "Game of Thrones"
-      },
-      {
-        "id": "1x24",
-        "conteudo": "Você não passa de um montão de neve!",
-        "autoria": "Elsa - Frozen"
-      },
-      {
-        "id": "1y25",
-        "conteudo": "A vida é como uma caixa de chocolates, você nunca sabe o que vai encontrar.",
-        "autoria": "Forrest Gump"
-      },
-      {
-        "id": "1z26",
-        "conteudo": "Ninguém solta a mão de ninguém!",
-        "autoria": "Manifesto"
-      },
-      {
-        "id": "2a27",
-        "conteudo": "Eu vou acabar com você, Nina!",
-        "autoria": "Carminha - Avenida Brasil"
-      },
-      {
-        "id": "2b28",
-        "conteudo": "Eu nunca pedi nada pra você!",
-        "autoria": "Mãe"
-      },
-      {
-        "id": "2c29",
-        "conteudo": "Diga olá para o meu amiguinho!",
-        "autoria": "Scarface"
-      },
-      {
-        "id": "2d30",
-        "conteudo": "Eu sou seu pai!",
-        "autoria": "Darth Vader - Star Wars"
-      },
-      {
-        "id": "2e31",
-        "conteudo": "Eu vou fazer uma oferta que ele não poderá recusar.",
-        "autoria": "O Poderoso Chefão"
-      },
-      {
-        "id": "2f32",
-        "conteudo": "Por que você está tão chateada? Eu só te dei uma rasteira!",
-        "autoria": "Carminha - Avenida Brasil"
-      },
-      {
-        "id": "2g33",
-        "conteudo": "Eu sou inevitável.",
-        "autoria": "Thanos - Vingadores"
-      },
-      {
-        "id": "2h34",
-        "conteudo": "Eu sou o Iron Man.",
-        "autoria": "Homem de Ferro"
-      },
-      {
-        "id": "2i35",
-        "conteudo": "Liberdade! Liberdade!",
-        "autoria": "William Wallace - Coração Valente"
-      },
-      {
-        "id": "2j36",
-        "conteudo": "Ninguém me aguenta mais!",
-        "autoria": "Nina - Avenida Brasil"
-      },
-      {
-        "id": "2k37",
-        "conteudo": "Com licença, tenho uma missão a cumprir!",
-        "autoria": "Buzz Lightyear - Toy Story"
-      },
-      {
-        "id": "2l38",
-        "conteudo": "Vingadores, avante!",
-        "autoria": "Capitão América"
-      },
-      {
-        "id": "2m39",
-        "conteudo": "Você não pode passar!",
-        "autoria": "Gandalf - O Senhor dos Anéis"
-      },
-      {
-        "id": "2n40",
-        "conteudo": "Eu juro solenemente não fazer nada de bom.",
-        "autoria": "Mapa do Maroto - Harry Potter"
-      },
-      {
-        "id": "2o41",
-        "conteudo": "Por dentro, eu tô chorando.",
-        "autoria": "Avenida Brasil"
-      },
-      {
-        "id": "2p42",
-        "conteudo": "Ao infinito e além!",
-        "autoria": "Buzz Lightyear - Toy Story"
-      },
-      {
-        "id": "2q43",
-        "conteudo": "Eu sou o escolhido!",
-        "autoria": "Neo - Matrix"
-      },
-      {
-        "id": "2r44",
-        "conteudo": "Eu sou o perigo!",
-        "autoria": "Walter White - Breaking Bad"
-      },
-      {
-        "id": "2s45",
-        "conteudo": "Cuidado onde pisa, sou um clássico.",
-        "autoria": "Mãe"
-      },
-      {
-        "id": "2t46",
-        "conteudo": "Eu vou te dar trabalho!",
-        "autoria": "Nina - Avenida Brasil"
-      },
-      {
-        "id": "2u47",
-        "conteudo": "Apenas continue nadando.",
-        "autoria": "Dory - Procurando Nemo"
-      },
-      {
-        "id": "2v48",
-        "conteudo": "Se correr, o bicho pega; se ficar, o bicho come.",
-        "autoria": "Dito Popular"
-      },
-      {
-        "id": "2w49",
-        "conteudo": "A vida é dura pra quem é mole.",
-        "autoria": "Seu Madruga"
-      },
-      {
-        "id": "2x50",
-        "conteudo": "Tivemos sorte até aqui. Vamos continuar com sorte!",
-        "autoria": "Velozes e Furiosos"
-      },
-      {
-        "id": "2y51",
-        "conteudo": "Correr atrás dos sonhos é o único caminho.",
-        "autoria": "Rocky Balboa"
-      },
-      {
-        "id": "2z52",
-        "conteudo": "Eu sou o grande dragão guerreiro!",
-        "autoria": "Kung Fu Panda"
-      }
-    ]
-  }
+{
+  "pensamentos": [
+    {
+      "id": "2a56",
+      "conteudo": "Vc faz TI? Conserta meu celular!",
+      "autoria": "Grupo da família"
+    },
+    {
+      "id": "4c7d",
+      "conteudo": "Da vida reclama, mas sem ela não vive!",
+      "autoria": "Mestre Yoda"
+    },
+    {
+      "id": "68uy",
+      "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
+      "autoria": "Chaves"
+    },
+    {
+      "id": "b807",
+      "conteudo": "Melhor professor, o fracasso é!",
+      "autoria": "Mestre Yoda"
+    },
+    {
+      "id": "9f3c",
+      "conteudo": "Você não é todo mundo!",
+      "autoria": "Mãe"
+    },
+    {
+      "id": "6a2b",
+      "conteudo": "Foi sem querer querendo!",
+      "autoria": "Chaves"
+    },
+    {
+      "id": "7e2a",
+      "conteudo": "Que a força esteja com você!",
+      "autoria": "Mestre Yoda"
+    },
+    {
+      "id": "5c8f",
+      "conteudo": "Resolver o bug não consegue? Esfriar a cabeça vc deve.",
+      "autoria": "Mestre Yoda"
+    },
+    {
+      "id": "2d6e",
+      "conteudo": "Não faça drama, faça café! :)",
+      "autoria": "Dev"
+    },
+    {
+      "id": "3f1a",
+      "conteudo": "Conserta minha impressora?",
+      "autoria": "Grupo da família"
+    },
+    {
+      "id": "8b4c",
+      "conteudo": "A vingança nunca é plena... mata a alma e a envenena...",
+      "autoria": "Seu Madruga"
+    },
+    {
+      "id": "584a",
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev"
+    },
+    {
+      "id": "1a01",
+      "conteudo": "Essa é a parte em que você corre!",
+      "autoria": "Shrek"
+    },
+    {
+      "id": "1b02",
+      "conteudo": "Que mundo é esse que ninguém mais faz nada pelo outro?",
+      "autoria": "Avenida Brasil"
+    },
+    {
+      "id": "1c03",
+      "conteudo": "O problema não é o problema. O problema é sua atitude em relação ao problema.",
+      "autoria": "Jack Sparrow"
+    },
+    {
+      "id": "1d04",
+      "conteudo": "Houston, nós temos um problema.",
+      "autoria": "Apollo 13"
+    },
+    {
+      "id": "1e05",
+      "conteudo": "Que a Força esteja com você.",
+      "autoria": "Star Wars"
+    },
+    {
+      "id": "1f06",
+      "conteudo": "E daí? Eu não sou obrigada a nada!",
+      "autoria": "Carminha - Avenida Brasil"
+    },
+    {
+      "id": "1g07",
+      "conteudo": "Hasta la vista, baby.",
+      "autoria": "O Exterminador do Futuro"
+    },
+    {
+      "id": "1h08",
+      "conteudo": "Vou te contar uma coisa que você já sabe: o mundo não é um grande arco-íris.",
+      "autoria": "Rocky Balboa"
+    },
+    {
+      "id": "1i09",
+      "conteudo": "Sabe de nada, inocente!",
+      "autoria": "Compadre Washington"
+    },
+    {
+      "id": "1j10",
+      "conteudo": "Por que está tão sério?",
+      "autoria": "Coringa"
+    },
+    {
+      "id": "1k11",
+      "conteudo": "Eu sou o rei do mundo!",
+      "autoria": "Titanic"
+    },
+    {
+      "id": "1l12",
+      "conteudo": "A vingança nunca é plena, mata a alma e a envenena.",
+      "autoria": "Seu Madruga"
+    },
+    {
+      "id": "1m13",
+      "conteudo": "Eu não sou todo mundo!",
+      "autoria": "Mãe"
+    },
+    {
+      "id": "1n14",
+      "conteudo": "Isso vai virar um inferno!",
+      "autoria": "Nina - Avenida Brasil"
+    },
+    {
+      "id": "1o15",
+      "conteudo": "Com grandes poderes, vêm grandes responsabilidades.",
+      "autoria": "Tio Ben - Homem-Aranha"
+    },
+    {
+      "id": "1p16",
+      "conteudo": "Eu sou o Batman.",
+      "autoria": "Batman"
+    },
+    {
+      "id": "1q17",
+      "conteudo": "É mesmo, é?",
+      "autoria": "Chaves"
+    },
+    {
+      "id": "1r18",
+      "conteudo": "Foi sem querer querendo!",
+      "autoria": "Chaves"
+    },
+    {
+      "id": "1s19",
+      "conteudo": "Pelo poder de Greyskull!",
+      "autoria": "He-Man"
+    },
+    {
+      "id": "1t20",
+      "conteudo": "Não contavam com a minha astúcia!",
+      "autoria": "Chapolin"
+    },
+    {
+      "id": "1u21",
+      "conteudo": "Eu vejo gente morta.",
+      "autoria": "O Sexto Sentido"
+    },
+    {
+      "id": "1v22",
+      "conteudo": "Sempre há uma luz no fim do túnel.",
+      "autoria": "Vovó"
+    },
+    {
+      "id": "1w23",
+      "conteudo": "O inverno está chegando.",
+      "autoria": "Game of Thrones"
+    },
+    {
+      "id": "1x24",
+      "conteudo": "Você não passa de um montão de neve!",
+      "autoria": "Elsa - Frozen"
+    },
+    {
+      "id": "1y25",
+      "conteudo": "A vida é como uma caixa de chocolates, você nunca sabe o que vai encontrar.",
+      "autoria": "Forrest Gump"
+    },
+    {
+      "id": "1z26",
+      "conteudo": "Ninguém solta a mão de ninguém!",
+      "autoria": "Manifesto"
+    },
+    {
+      "id": "2a27",
+      "conteudo": "Eu vou acabar com você, Nina!",
+      "autoria": "Carminha - Avenida Brasil"
+    },
+    {
+      "id": "2b28",
+      "conteudo": "Eu nunca pedi nada pra você!",
+      "autoria": "Mãe"
+    },
+    {
+      "id": "2c29",
+      "conteudo": "Diga olá para o meu amiguinho!",
+      "autoria": "Scarface"
+    },
+    {
+      "id": "2d30",
+      "conteudo": "Eu sou seu pai!",
+      "autoria": "Darth Vader - Star Wars"
+    },
+    {
+      "id": "2e31",
+      "conteudo": "Eu vou fazer uma oferta que ele não poderá recusar.",
+      "autoria": "O Poderoso Chefão"
+    },
+    {
+      "id": "2f32",
+      "conteudo": "Por que você está tão chateada? Eu só te dei uma rasteira!",
+      "autoria": "Carminha - Avenida Brasil"
+    },
+    {
+      "id": "2g33",
+      "conteudo": "Eu sou inevitável.",
+      "autoria": "Thanos - Vingadores"
+    },
+    {
+      "id": "2h34",
+      "conteudo": "Eu sou o Iron Man.",
+      "autoria": "Homem de Ferro"
+    },
+    {
+      "id": "2i35",
+      "conteudo": "Liberdade! Liberdade!",
+      "autoria": "William Wallace - Coração Valente"
+    },
+    {
+      "id": "2j36",
+      "conteudo": "Ninguém me aguenta mais!",
+      "autoria": "Nina - Avenida Brasil"
+    },
+    {
+      "id": "2k37",
+      "conteudo": "Com licença, tenho uma missão a cumprir!",
+      "autoria": "Buzz Lightyear - Toy Story"
+    },
+    {
+      "id": "2l38",
+      "conteudo": "Vingadores, avante!",
+      "autoria": "Capitão América"
+    },
+    {
+      "id": "2m39",
+      "conteudo": "Você não pode passar!",
+      "autoria": "Gandalf - O Senhor dos Anéis"
+    },
+    {
+      "id": "2n40",
+      "conteudo": "Eu juro solenemente não fazer nada de bom.",
+      "autoria": "Mapa do Maroto - Harry Potter"
+    },
+    {
+      "id": "2o41",
+      "conteudo": "Por dentro, eu tô chorando.",
+      "autoria": "Avenida Brasil"
+    },
+    {
+      "id": "2p42",
+      "conteudo": "Ao infinito e além!",
+      "autoria": "Buzz Lightyear - Toy Story"
+    },
+    {
+      "id": "2q43",
+      "conteudo": "Eu sou o escolhido!",
+      "autoria": "Neo - Matrix"
+    },
+    {
+      "id": "2r44",
+      "conteudo": "Eu sou o perigo!",
+      "autoria": "Walter White - Breaking Bad"
+    },
+    {
+      "id": "2s45",
+      "conteudo": "Cuidado onde pisa, sou um clássico.",
+      "autoria": "Mãe"
+    },
+    {
+      "id": "2t46",
+      "conteudo": "Eu vou te dar trabalho!",
+      "autoria": "Nina - Avenida Brasil"
+    },
+    {
+      "id": "2u47",
+      "conteudo": "Apenas continue nadando.",
+      "autoria": "Dory - Procurando Nemo"
+    },
+    {
+      "id": "2v48",
+      "conteudo": "Se correr, o bicho pega; se ficar, o bicho come.",
+      "autoria": "Dito Popular"
+    },
+    {
+      "id": "2w49",
+      "conteudo": "A vida é dura pra quem é mole.",
+      "autoria": "Seu Madruga"
+    },
+    {
+      "id": "2x50",
+      "conteudo": "Tivemos sorte até aqui. Vamos continuar com sorte!",
+      "autoria": "Velozes e Furiosos"
+    },
+    {
+      "id": "2y51",
+      "conteudo": "Correr atrás dos sonhos é o único caminho.",
+      "autoria": "Rocky Balboa"
+    },
+    {
+      "id": "2z52",
+      "conteudo": "Eu sou o grande dragão guerreiro!",
+      "autoria": "Kung Fu Panda"
+    }
+  ]
+}

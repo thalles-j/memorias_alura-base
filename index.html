@@ -5,46 +5,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>CRUD de Pensamentos</title>
     <link rel="stylesheet" href="src/css/styles.css"/>
-    <script type="module" src="src/app/main.js"></script>
-    <script type="module" src="src/app/api.js"></script>
-    <script type="module" src="src/app/ui.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
   </head>
-<body>
-  <header>
-    <div class="conteudo-cabecalho">
-      <div class="logo">
-        <img src="src/assets/img/logo.png" alt="">
-        <h1>Trechos de músicas,<br> citações de livros e
-          <br> <strong>suas melhores ideias
-          <br> num só lugar!</strong>
-        </h1>
-      </div>
-      <div class="imagem-cabecalho">
-        <img 
+  <body>
+    <header>
+      <div class="conteudo-cabecalho">
+        <div class="logo">
+          <img src="src/assets/img/logo.png" alt="">
+          <h1>Trechos de músicas,<br> citações de livros e
+            <br> <strong>suas melhores ideias
+            <br> num só lugar!</strong>
+          </h1>
+        </div>
+        <div class="imagem-cabecalho">
+          <img 
             src="src/assets/img/computador-cabecalho.png" 
             alt="">
+        </div>
       </div>
-    </div>
-  </header>
-
-  <main class="background-overlay">
-    <div class="overlay"></div>
-    <div class="overlay overlay-color"></div>
+    </header>
+    <main class="background-overlay">
+      <div class="overlay"></div>
+      <div class="overlay overlay-color"></div>
       <h2>Adicione um pensamento novo:</h2>
       <section id="form-container">
         <form id="pensamento-form">
           <input type="hidden" id="pensamento-id" />
           <label for="pensamento-conteudo">Pensamento</label>
-          <textarea 
-            id="pensamento-conteudo" 
-            placeholder="Digite seu pensamento" 
-            resize: none; width: 300px; height: 150px;>
-          </textarea>
-          <label 
-            for="pensamento-autoria">
-              Autoria ou Fonte
-            </label>
+          <textarea id="pensamento-conteudo" placeholder="Digite seu pensamento" required></textarea>
+          <label for="pensamento-autoria">Autoria ou Fonte</label>
           <input 
             type="text" 
             id="pensamento-autoria" 
@@ -54,7 +42,7 @@
             <button 
               type="submit" 
               id="botao-salvar">
-              Adicionar
+              Salvar
             </button>
             <button 
               type="button" 
@@ -67,13 +55,21 @@
       <span></span>
       <section id="lista-pensamentos-container">
         <h3>Meu Mural</h3>
+        <div id="mensagem-vazia" class="mensagem-vazia">
+          <img src="src/assets/img/lista-vazia.png" alt="Nenhum pensamento disponível">
+          <p>Nada por aqui ainda, que tal compartilhar alguma ideia?</p>
+        </div>
         <ul id="lista-pensamentos"></ul>
       </section>
-  </main>
-  <footer>
-    <p>&copy; 
-      2024 Desenvolvido por Alura. 
-      Projeto fictício sem fins comerciais.</p>
-  </footer>
+    </main>
+    <footer>
+      <p>&copy; 
+        2024 Desenvolvido por Alura. 
+        Projeto fictício sem fins comerciais.</p>
+    </footer>
+  <script type="module" src="src/app/main.js" ></script>
+  <script type="module" src="src/app/api.js" ></script>
+  <script type="module" src="src/app/ui.js" ></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js" ></script>
 </body>
 </html>
