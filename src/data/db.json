@@ -1,324 +1,229 @@
+
 {
   "pensamentos": [
     {
       "id": "2a56",
+      "favorito": false,
       "conteudo": "Vc faz TI? Conserta meu celular!",
-      "autoria": "Grupo da família"
+      "autoria": "Grupo da família",
+      "data": ""
     },
     {
       "id": "4c7d",
+      "favorito": false,
       "conteudo": "Da vida reclama, mas sem ela não vive!",
-      "autoria": "Mestre Yoda"
+      "autoria": "Mestre Yoda",
+      "data": "1980-05-21T00:00:00.000Z" 
     },
     {
       "id": "68uy",
+      "favorito": false,
       "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
-      "autoria": "Chaves"
+      "autoria": "Chaves",
+      "data": "1972-06-20T00:00:00.000Z"
     },
     {
       "id": "b807",
+      "favorito": false,
       "conteudo": "Melhor professor, o fracasso é!",
-      "autoria": "Mestre Yoda"
+      "autoria": "Mestre Yoda",
+      "data": "1980-05-21T00:00:00.000Z"
     },
     {
       "id": "9f3c",
+      "favorito": false,
       "conteudo": "Você não é todo mundo!",
-      "autoria": "Mãe"
+      "autoria": "Mãe",
+      "data": ""
     },
     {
       "id": "6a2b",
+      "favorito": false,
       "conteudo": "Foi sem querer querendo!",
-      "autoria": "Chaves"
+      "autoria": "Chaves",
+      "data": "1972-06-20T00:00:00.000Z"
     },
     {
       "id": "7e2a",
+      "favorito": false,
       "conteudo": "Que a força esteja com você!",
-      "autoria": "Mestre Yoda"
+      "autoria": "Mestre Yoda",
+      "data": "1977-05-25T00:00:00.000Z"
     },
     {
       "id": "5c8f",
+      "favorito": false,
       "conteudo": "Resolver o bug não consegue? Esfriar a cabeça vc deve.",
-      "autoria": "Mestre Yoda"
+      "autoria": "Mestre Yoda",
+      "data": "1980-05-21T00:00:00.000Z"
     },
     {
       "id": "2d6e",
+      "favorito": false,
       "conteudo": "Não faça drama, faça café! :)",
-      "autoria": "Dev"
+      "autoria": "Dev",
+      "data": ""
     },
     {
       "id": "3f1a",
+      "favorito": false,
       "conteudo": "Conserta minha impressora?",
-      "autoria": "Grupo da família"
+      "autoria": "Grupo da família",
+      "data": ""
     },
     {
       "id": "8b4c",
+      "favorito": false,
       "conteudo": "A vingança nunca é plena... mata a alma e a envenena...",
-      "autoria": "Seu Madruga"
+      "autoria": "Seu Madruga",
+      "data": "1972-06-20T00:00:00.000Z"
     },
     {
       "id": "584a",
+      "favorito": false,
       "conteudo": "Na minha máquina funciona!",
-      "autoria": "Dev"
+      "autoria": "Dev",
+      "data": ""
     },
     {
       "id": "1a01",
+      "favorito": false,
       "conteudo": "Essa é a parte em que você corre!",
-      "autoria": "Shrek"
+      "autoria": "Shrek",
+      "data": "2001-05-18T00:00:00.000Z"
     },
     {
       "id": "1b02",
+      "favorito": false,
       "conteudo": "Que mundo é esse que ninguém mais faz nada pelo outro?",
-      "autoria": "Avenida Brasil"
+      "autoria": "Avenida Brasil",
+      "data": "2012-03-26T00:00:00.000Z"
     },
     {
       "id": "1c03",
+      "favorito": false,
       "conteudo": "O problema não é o problema. O problema é sua atitude em relação ao problema.",
-      "autoria": "Jack Sparrow"
+      "autoria": "Jack Sparrow",
+      "data": "2003-07-09T00:00:00.000Z"
     },
     {
       "id": "1d04",
+      "favorito": false,
       "conteudo": "Houston, nós temos um problema.",
-      "autoria": "Apollo 13"
+      "autoria": "Apollo 13",
+      "data": "1995-06-30T00:00:00.000Z"
     },
     {
       "id": "1e05",
+      "favorito": false,
       "conteudo": "Que a Força esteja com você.",
-      "autoria": "Star Wars"
+      "autoria": "Star Wars",
+      "data": "1977-05-25T00:00:00.000Z"
     },
     {
       "id": "1f06",
+      "favorito": false,
       "conteudo": "E daí? Eu não sou obrigada a nada!",
-      "autoria": "Carminha - Avenida Brasil"
+      "autoria": "Carminha - Avenida Brasil",
+      "data": "2012-03-26T00:00:00.000Z"
     },
     {
       "id": "1g07",
+      "favorito": false,
       "conteudo": "Hasta la vista, baby.",
-      "autoria": "O Exterminador do Futuro"
+      "autoria": "O Exterminador do Futuro",
+      "data": "1991-07-03T00:00:00.000Z"
     },
     {
       "id": "1h08",
+      "favorito": false,
       "conteudo": "Vou te contar uma coisa que você já sabe: o mundo não é um grande arco-íris.",
-      "autoria": "Rocky Balboa"
+      "autoria": "Rocky Balboa",
+      "data": "2006-12-20T00:00:00.000Z"
     },
     {
       "id": "1i09",
+      "favorito": false,
       "conteudo": "Sabe de nada, inocente!",
-      "autoria": "Compadre Washington"
+      "autoria": "Compadre Washington",
+      "data": ""
     },
     {
       "id": "1j10",
+      "favorito": false,
       "conteudo": "Por que está tão sério?",
-      "autoria": "Coringa"
+      "autoria": "Coringa",
+      "data": "2008-07-18T00:00:00.000Z"
     },
     {
       "id": "1k11",
+      "favorito": false,
       "conteudo": "Eu sou o rei do mundo!",
-      "autoria": "Titanic"
+      "autoria": "Titanic",
+      "data": "1997-12-19T00:00:00.000Z"
     },
     {
       "id": "1l12",
+      "favorito": false,
       "conteudo": "A vingança nunca é plena, mata a alma e a envenena.",
-      "autoria": "Seu Madruga"
+      "autoria": "Seu Madruga",
+      "data": "1972-06-20T00:00:00.000Z"
     },
     {
       "id": "1m13",
+      "favorito": false,
       "conteudo": "Eu não sou todo mundo!",
-      "autoria": "Mãe"
+      "autoria": "Mãe",
+      "data": ""
     },
     {
       "id": "1n14",
+      "favorito": false,
       "conteudo": "Isso vai virar um inferno!",
-      "autoria": "Nina - Avenida Brasil"
+      "autoria": "Nina - Avenida Brasil",
+      "data": "2012-03-26T00:00:00.000Z"
     },
     {
       "id": "1o15",
+      "favorito": false,
       "conteudo": "Com grandes poderes, vêm grandes responsabilidades.",
-      "autoria": "Tio Ben - Homem-Aranha"
+      "autoria": "Tio Ben - Homem-Aranha",
+      "data": "2002-05-03T00:00:00.000Z"
     },
     {
       "id": "1p16",
+      "favorito": false,
       "conteudo": "Eu sou o Batman.",
-      "autoria": "Batman"
+      "autoria": "Batman",
+      "data": "2008-07-18T00:00:00.000Z"
     },
     {
       "id": "1q17",
+      "favorito": false,
       "conteudo": "É mesmo, é?",
-      "autoria": "Chaves"
+      "autoria": "Chaves",
+      "data": "1972-06-20T00:00:00.000Z"
     },
     {
       "id": "1r18",
+      "favorito": false,
       "conteudo": "Foi sem querer querendo!",
-      "autoria": "Chaves"
+      "autoria": "Chaves",
+      "data": "1972-06-20T00:00:00.000Z"
     },
     {
       "id": "1s19",
+      "favorito": false,
       "conteudo": "Pelo poder de Greyskull!",
-      "autoria": "He-Man"
+      "autoria": "He-Man",
+      "data": "1983-09-05T00:00:00.000Z"
     },
     {
       "id": "1t20",
+      "favorito": false,
       "conteudo": "Não contavam com a minha astúcia!",
-      "autoria": "Chapolin"
-    },
-    {
-      "id": "1u21",
-      "conteudo": "Eu vejo gente morta.",
-      "autoria": "O Sexto Sentido"
-    },
-    {
-      "id": "1v22",
-      "conteudo": "Sempre há uma luz no fim do túnel.",
-      "autoria": "Vovó"
-    },
-    {
-      "id": "1w23",
-      "conteudo": "O inverno está chegando.",
-      "autoria": "Game of Thrones"
-    },
-    {
-      "id": "1x24",
-      "conteudo": "Você não passa de um montão de neve!",
-      "autoria": "Elsa - Frozen"
-    },
-    {
-      "id": "1y25",
-      "conteudo": "A vida é como uma caixa de chocolates, você nunca sabe o que vai encontrar.",
-      "autoria": "Forrest Gump"
-    },
-    {
-      "id": "1z26",
-      "conteudo": "Ninguém solta a mão de ninguém!",
-      "autoria": "Manifesto"
-    },
-    {
-      "id": "2a27",
-      "conteudo": "Eu vou acabar com você, Nina!",
-      "autoria": "Carminha - Avenida Brasil"
-    },
-    {
-      "id": "2b28",
-      "conteudo": "Eu nunca pedi nada pra você!",
-      "autoria": "Mãe"
-    },
-    {
-      "id": "2c29",
-      "conteudo": "Diga olá para o meu amiguinho!",
-      "autoria": "Scarface"
-    },
-    {
-      "id": "2d30",
-      "conteudo": "Eu sou seu pai!",
-      "autoria": "Darth Vader - Star Wars"
-    },
-    {
-      "id": "2e31",
-      "conteudo": "Eu vou fazer uma oferta que ele não poderá recusar.",
-      "autoria": "O Poderoso Chefão"
-    },
-    {
-      "id": "2f32",
-      "conteudo": "Por que você está tão chateada? Eu só te dei uma rasteira!",
-      "autoria": "Carminha - Avenida Brasil"
-    },
-    {
-      "id": "2g33",
-      "conteudo": "Eu sou inevitável.",
-      "autoria": "Thanos - Vingadores"
-    },
-    {
-      "id": "2h34",
-      "conteudo": "Eu sou o Iron Man.",
-      "autoria": "Homem de Ferro"
-    },
-    {
-      "id": "2i35",
-      "conteudo": "Liberdade! Liberdade!",
-      "autoria": "William Wallace - Coração Valente"
-    },
-    {
-      "id": "2j36",
-      "conteudo": "Ninguém me aguenta mais!",
-      "autoria": "Nina - Avenida Brasil"
-    },
-    {
-      "id": "2k37",
-      "conteudo": "Com licença, tenho uma missão a cumprir!",
-      "autoria": "Buzz Lightyear - Toy Story"
-    },
-    {
-      "id": "2l38",
-      "conteudo": "Vingadores, avante!",
-      "autoria": "Capitão América"
-    },
-    {
-      "id": "2m39",
-      "conteudo": "Você não pode passar!",
-      "autoria": "Gandalf - O Senhor dos Anéis"
-    },
-    {
-      "id": "2n40",
-      "conteudo": "Eu juro solenemente não fazer nada de bom.",
-      "autoria": "Mapa do Maroto - Harry Potter"
-    },
-    {
-      "id": "2o41",
-      "conteudo": "Por dentro, eu tô chorando.",
-      "autoria": "Avenida Brasil"
-    },
-    {
-      "id": "2p42",
-      "conteudo": "Ao infinito e além!",
-      "autoria": "Buzz Lightyear - Toy Story"
-    },
-    {
-      "id": "2q43",
-      "conteudo": "Eu sou o escolhido!",
-      "autoria": "Neo - Matrix"
-    },
-    {
-      "id": "2r44",
-      "conteudo": "Eu sou o perigo!",
-      "autoria": "Walter White - Breaking Bad"
-    },
-    {
-      "id": "2s45",
-      "conteudo": "Cuidado onde pisa, sou um clássico.",
-      "autoria": "Mãe"
-    },
-    {
-      "id": "2t46",
-      "conteudo": "Eu vou te dar trabalho!",
-      "autoria": "Nina - Avenida Brasil"
-    },
-    {
-      "id": "2u47",
-      "conteudo": "Apenas continue nadando.",
-      "autoria": "Dory - Procurando Nemo"
-    },
-    {
-      "id": "2v48",
-      "conteudo": "Se correr, o bicho pega; se ficar, o bicho come.",
-      "autoria": "Dito Popular"
-    },
-    {
-      "id": "2w49",
-      "conteudo": "A vida é dura pra quem é mole.",
-      "autoria": "Seu Madruga"
-    },
-    {
-      "id": "2x50",
-      "conteudo": "Tivemos sorte até aqui. Vamos continuar com sorte!",
-      "autoria": "Velozes e Furiosos"
-    },
-    {
-      "id": "2y51",
-      "conteudo": "Correr atrás dos sonhos é o único caminho.",
-      "autoria": "Rocky Balboa"
-    },
-    {
-      "id": "2z52",
-      "conteudo": "Eu sou o grande dragão guerreiro!",
-      "autoria": "Kung Fu Panda"
+      "autoria": "Chapolin",
+      "data": "1973-09-03T00:00:00.000Z"
     }
   ]
 }

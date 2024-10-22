@@ -53,8 +53,32 @@ const api = {
       alert('Erro ao excluir um pensamento')
       throw error
     }
+  },
+  async buscarPensamentoPorTermo(termo) {
+    try{
+    const pensamento = await this.buscarPensamentos();
+    const termoEmMinusculas = termo.toLowerCase()
+
+    const pensamentosFiltrados = pensamento.filter(pensamento =>  {
+      return (pensamento.conteudo.toLowerCase().includes(termoEmMinusculas)) || pensamento.autoria.toLowerCase().includes(termoEmMinusculas)
+    })
+    return pensamentosFiltrados
+        }
+  catch{
+    alert('Erro ao filtrar pensamentos')
+    throw error
+        }
+    
+  },
+  async atualizarFavorito(id, favorito) {
+    try {
+      const response = await axios.patch(`${URL_BASE}/pensamentos/${id}`, { favorito })
+      return response.data
+    } catch (error) {
+      alert("Erro ao atualizar favorito")
+      throw error
+    }
   }
-  
 }
 
 export default api
